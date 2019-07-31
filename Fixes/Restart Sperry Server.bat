@@ -1,0 +1,1 @@
+shutdown.exe /r /t 15 /m \\DC1WCCFNOLPRD01 /c "Service Desk recovery attempt"

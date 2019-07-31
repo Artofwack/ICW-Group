@@ -1,0 +1,1 @@
+net use B: \\sancfs001\WCC /persistent:yes

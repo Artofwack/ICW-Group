@@ -1,0 +1,2 @@
+net use W: /delete
+net use W: \\sancfs001.icwgrp.com\WCC /persistent:yes
